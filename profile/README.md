@@ -7,7 +7,7 @@ Welcome to **SifrSec** an educational collective and training hub. We bridge the
 ---
 
 ### Learning Hubs & Ecosystem
-* **Main Hub:** [sifrsec.dev](https://sifrsec.dev) / [afnaan.me](https://afnaan.me)
+* **Main Hub:** [sifrsec.com](https://sifrsec.com) / [afnaan.me](https://afnaan.me)
 * **Video Tutorials:** [@SifrSec (YouTube)](https://www.youtube.com/@SifrSec) — *Step-by-step breakdowns of exploits, SIEM configuration, and labs.*
 * **Write-ups & Guides:** [@afnaan2180 (Medium)](https://medium.com/@afnaan2180)
 * **Professional Networking:** [SifrSec (LinkedIn)](https://www.linkedin.com/company/sifrsec) / [Mohammed Afnaan Ahmed (LinkedIn)](https://linkedin.com/in/afnaan-ahmed-2180)
